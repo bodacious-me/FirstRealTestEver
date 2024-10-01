@@ -1,0 +1,89 @@
+package org.junit.jupiter.api does not exist
+package org.springframework.boot.test.context does not exist
+cannot find symbol
+  symbol: class SpringBootTest
+package org.jline.reader does not exist
+package org.springframework.beans.factory.annotation does not exist
+package org.springframework.shell.standard does not exist
+package org.springframework.shell.standard does not exist
+package com.fasterxml.jackson.core does not exist
+package com.fasterxml.jackson.databind does not exist
+cannot find symbol
+  symbol: class ShellComponent
+package org.springframework.http does not exist
+package org.springframework.stereotype does not exist
+package org.springframework.web.client does not exist
+package org.springframework.web.client does not exist
+package com.fasterxml.jackson.core does not exist
+package com.fasterxml.jackson.databind does not exist
+package com.fasterxml.jackson.databind does not exist
+package com.fasterxml.jackson.databind does not exist
+package lombok does not exist
+cannot find symbol
+  symbol: class Service
+cannot find symbol
+  symbol:   class JsonMappingException
+  location: class my.code.mycode.commands.ClientCommands
+cannot find symbol
+  symbol:   class JsonProcessingException
+  location: class my.code.mycode.commands.ClientCommands
+cannot find symbol
+  symbol:   class RestTemplate
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class ObjectMapper
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class RestTemplate
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class JsonMappingException
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class JsonProcessingException
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class Data
+  location: class my.code.mycode.services.ClientServices
+package org.springframework.boot does not exist
+package org.springframework.boot.autoconfigure does not exist
+cannot find symbol
+  symbol: class SpringBootApplication
+package org.springframework.context.annotation does not exist
+package org.springframework.context.annotation does not exist
+package org.springframework.web.client does not exist
+cannot find symbol
+  symbol: class Configuration
+cannot find symbol
+  symbol:   class RestTemplate
+  location: class my.code.mycode.AppConfig
+cannot find symbol
+  symbol:   class Test
+  location: class my.code.client.ClientApplicationTests
+cannot find symbol
+  symbol:   class Autowired
+  location: class my.code.mycode.commands.ClientCommands
+cannot find symbol
+  symbol:   class ShellMethod
+  location: class my.code.mycode.commands.ClientCommands
+cannot find symbol
+  symbol:   class Bean
+  location: class my.code.mycode.AppConfig
+cannot find symbol
+  symbol:   class ObjectMapper
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class JsonNode
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class JsonNode
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   class HttpClientErrorException
+  location: class my.code.mycode.services.ClientServices
+cannot find symbol
+  symbol:   variable SpringApplication
+  location: class my.code.mycode.Application
+cannot find symbol
+  symbol:   class RestTemplate
+  location: class my.code.mycode.AppConfig
